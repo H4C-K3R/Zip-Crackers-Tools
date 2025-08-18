@@ -2,7 +2,7 @@
 
 # installation
 ```
-git clone https://github.com/BadBoy9399/Zip-Crackers-Tools
+git clone https://github.com/H4C-K3R/Zip-Crackers-Tools
 cd Zip-Crackers-Tools
 python zip.py
 ```
